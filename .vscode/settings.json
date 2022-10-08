@@ -51,6 +51,7 @@
         "functional": "cpp",
         "list": "cpp",
         "queue": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "numeric": "cpp"
     }
 }
